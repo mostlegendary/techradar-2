@@ -116,4 +116,4 @@ var radar_data = [
 	}
 ];
 
-var radar_title = "ThoughtWorks Technology Radar (Aug 2010)";
+var radar_title = "ThoughtWorks Organisational Design Radar (May 2015)";
