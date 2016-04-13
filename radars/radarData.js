@@ -1,14 +1,14 @@
 //This is the title for your window tab, and your Radar
-document.title = "WotifGroup's Technology Radar (December 2014)";
+document.title = "PI Competency Radar (April 2016)";
 
 
 //This is the concentic circles that want on your radar
 var radar_arcs = [
-                   {'r':100,'name':'Adopt'}
-                  ,{'r':200,'name':'Trial'}
-                  ,{'r':300,'name':'Assess'}
-                  ,{'r':400,'name':'Hold'}
-                 // ,{'r':500,'name':'Possible Extra if you want it'}
+                   {'r':150,'name':'Core'}
+                  ,{'r':300,'name':'Explore'}
+                  ,{'r':450,'name':'Deprecate'}
+                  //,{'r':600,'name':'Hold'}
+                 // ,{'r':750,'name':'Possible Extra if you want it'}
                  ];
 
 //This is your raw data
